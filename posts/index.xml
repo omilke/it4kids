@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on it4kids.info</title>
+    <link>https://it4kids.info/posts/</link>
+    <description>Recent content in Posts on it4kids.info</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 10 Oct 2019 07:37:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://it4kids.info/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>it4kids.info ist online</title>
+      <link>https://it4kids.info/posts/it4kids-is-online/</link>
+      <pubDate>Thu, 10 Oct 2019 07:37:36 +0200</pubDate>
+      
+      <guid>https://it4kids.info/posts/it4kids-is-online/</guid>
+      <description>Hallo an allle!
+Hier entsteht eine Sammlung von IT-Angeboten für Kinder und Jugenliche.</description>
+    </item>
+    
+  </channel>
+</rss>
